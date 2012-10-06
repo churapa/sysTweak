@@ -1,42 +1,42 @@
 <resources>
-	<string name="title_section1">Common</string>
-	<string name="title_section2">All</string>
+	<string name="title_section1">Común</string>
+	<string name="title_section2">Todo</string>
 	<!-- Strings for 'all' section -->
-	<string name="all_apps">All Installed Aplications</string>
+	<string name="all_apps">Todas las aplicaciones instaladas</string>
 	<string name="ok">OK</string>
 	<!-- end -->
     <string name="app_name">SysTweak</string>
-    <string name="hello_world">Please note:\nThese settings are designed for the galaxy s2 i9100 the international version. 
-        It might or might not work on other devices. Enable the services you want to run\n</string>
-    <string name="menu_settings">Settings</string>
-    <string name="menu_about">About</string>
-    <string name="title_activity_main">System Tweaks</string>
+    <string name="hello_world">Por favor notar:\nEstos ajustes estan designados para la version internacional de Galaxy S2 I9100. 
+        Podria o no trabajar en otros aparatos. Habilite los servicios que quiera ejecutar\n</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="title_activity_main">Modificaciones del Sistema</string>
     <!-- Things to toggle -->
-	<string name="RomManager">Rom Manager</string>
-	<string name="LiveWallpapers">Live Wallpapers</string>
-	<string name="CMWallpapers">CyanogenMod Wallpapers</string>
-	<string name="GoogleTextToSpeech">Google Text-to-speak-engine</string>
+	<string name="RomManager">Administrador de la Rom</string>
+	<string name="LiveWallpapers">Fondos de pantalla dinámicos</string>
+	<string name="CMWallpapers">Fondos de pantalla de CyanogenMod</string>
+	<string name="GoogleTextToSpeech">Motor de Google Escribir-al-hablar</string>
 	<string name="gmail">Gmail</string>
 	<string name="TVOut">TVOut</string>
-	<string name="phone">Phone</string>
-	<string name="apollo">Apollo</string>
+	<string name="phone">Teléfono</string>
+	<string name="apollo">Reproductor de música Apollo</string>
 	<string name="DSPManager">DSPManager</string>
-	<string name="email">Email</string>
-	<string name="news_and_weather">News and weather</string>
-	<string name="Movie_Studio">Video Editor</string>
+	<string name="email">Correo Electrónico</string>
+	<string name="news_and_weather">Noticias y estado del tiempo</string>
+	<string name="Movie_Studio">Editor de video</string>
 	<string name="google_talk">Google talk</string>
-	<string name="terminal_emulator">Terminal emulator</string>
-	<string name="torch">Torch</string>
-	<string name="media_scanner">Media Scanner</string>
+	<string name="terminal_emulator">Emulador del Terminal</string>
+	<string name="torch">Linterna</string>
+	<string name="media_scanner">Explorador de medios</string>
 	<!-- Not yet added -->
 	<!-- end -->
-	<string name="boot">Set on Boot</string>
-	<string name="apply">Apply Settings</string>
-	<string name="showadv">Show Dangerous settings</string>
-	<string name="settings_enable_all">Enable everything</string>
-	<string name="about_graphics">Graphics thanks to: </string>
-	<string name="about_translations">Translations thanks to:</string>
-	<string name="about_about">About:</string>
+	<string name="boot">Aplicar al arrancar</string>
+	<string name="apply">Aplicar ajustes</string>
+	<string name="showadv">Mostrar ajustes peligrosos</string>
+	<string name="settings_enable_all">Habilitar todo</string>
+	<string name="about_graphics">Graficos gracias a: </string>
+	<string name="about_translations">Traducciones gracias a:</string>
+	<string name="about_about">Acerca de:</string>
 	<string name="about_translations_thanks">\n
 	    French - Minidou-77\n
 	    Português - Ghelfalath\n
@@ -46,5 +46,6 @@
 	    Polish - dedopl\n
 	    Español - churapa\n
 	    Romana - mamadraq\n
+            Español - churapa\n
 	    German - KcDaRookie\n</string>
 </resources>
